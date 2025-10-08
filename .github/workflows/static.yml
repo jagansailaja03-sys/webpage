@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Web Page</title>
+</head>
+<body>
+  <h1>Welcome to My Web Page</h1>
+  <hr>
+  <center>
+  <h2>𝓙𝓓 𝓢𝓗𝓞𝓟𝓟𝓘𝓝𝓖</h2>
+  </center>
+  <hr>
+  <p>𝙩𝙝𝙞𝙨 𝙞𝙨 𝙖 𝙨𝙝𝙤𝙥𝙥𝙞𝙣𝙜 𝙬𝙚𝙗𝙨𝙞𝙩𝙚 𝙡𝙞𝙣𝙠𝙚𝙙 𝙬𝙞𝙩𝙝 𝙖𝙢𝙖𝙯𝙤𝙣,𝙛𝙡𝙞𝙥𝙠𝙖𝙧𝙩,𝙢𝙮𝙣𝙩𝙧𝙖 𝙘𝙡𝙞𝙘𝙠 𝙩𝙝𝙚 𝙗𝙚𝙡𝙤𝙬 𝙡𝙞𝙣𝙠𝙨 𝙩𝙤 𝙤𝙥𝙚𝙣 𝙖𝙢𝙖𝙯𝙤𝙣,𝙛𝙡𝙞𝙥𝙠𝙖𝙧𝙩,𝙢𝙮𝙣𝙩𝙧𝙖</p>
+  <p>𝒚𝒐𝒖 𝒄𝒂𝒏 𝒂𝒄𝒆𝒔𝒔 𝒐𝒖𝒓 𝒘𝒆𝒃𝒔𝒊𝒕𝒆 𝒕𝒐 𝒔𝒉𝒐𝒑𝒑𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒎𝒖𝒍𝒊𝒕𝒊𝒑𝒍𝒆 𝒔𝒉𝒐𝒑𝒊𝒏𝒈 𝒂𝒑𝒑 </p>
+ <ul>
+   <li>flipkart</li>
+   <li>amazon</li>
+   <li>myntra</li>
+ </ul>
+  <center>
+  <img src="flipkart.avif" alt="flipkart.avif  " width="200" height="200">
+   <a href="https://www.flipkart.com/" target="_blank">Visit flipkart</a>
+</center>  
+<center>
+<a href="https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_5szpgfto9i_e&adgrpid=155259813593&hvpone=&hvptwo=&hvadid=774088017322&hvpos=&hvnetw=g&hvrand=18033365183337526160&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9185135&hvtargid=kwd-64107830&hydadcr=14452_2429115&gad_source=1" target="_blank">amazon</a>
+<img src="Amazon logo.png" alt="amazon.png" width="200" height="200">
+</center>
+<center>
+  <img src="myntra.png" alt="myntra.png" width="200" height="200">
+  <a href="https://www.myntra.com/?utm_source=dms_google&utm_medium=dms_searchbrand_cpc&utm_campaign=dms_google_searchbrand_cpc_Search_Brand_Myntra_Brand_India_BM_TROAS_SOK_New&gad_source=1&gad_campaignid=20443628324&gbraid=0AAAAADoxBh6WRfhqJ_BJ5tmgH3f2hiK8K&gclid=Cj0KCQjwl5jHBhDHARIsAB0YqjxQroXSfkUAfgKFiOZcNrb9Y-1ZBfl7ewq3LsRtSqLN9h8Okd4VhusaAq07EALw_wcB" target="_blank">Visit myntra</a>
+</center>
+<hr>
+<h4>CONTACT:044 58976657
+    EMAIL:jagansailaja03@gmail.com
+</h4>
+<hr>
+<h3>𝙩𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙪𝙨𝙞𝙣𝙜 𝙤𝙪𝙧 𝙬𝙚𝙗𝙨𝙞𝙩𝙚</h3>
+
+<hr>
+</body>
+</html>
